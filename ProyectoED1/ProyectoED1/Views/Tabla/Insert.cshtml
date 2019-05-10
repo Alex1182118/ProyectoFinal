@@ -1,0 +1,22 @@
+﻿@model IEnumerable<ProyectoED1.Models.DefColumna>
+@{
+    ViewData["Title"] = "INSERTAR";
+}
+<h4>DATOS INSERTADOS</h4>
+<p>
+    <a asp-controller="Comando" asp-action="Create">INSERT</a>
+</p>
+
+<table class="table">
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.list_string)
+                </td>
+
+            </tr>
+        }
+    </tbody>
+</table>

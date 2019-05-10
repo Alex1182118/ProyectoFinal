@@ -1,0 +1,7 @@
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\ArbolDLL\ArbolDLL\bin\Debug\ArbolDLL.dll.config
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\ArbolDLL\ArbolDLL\bin\Debug\ArbolDLL.dll
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\ArbolDLL\ArbolDLL\bin\Debug\ArbolDLL.pdb
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\ArbolDLL\ArbolDLL\obj\Debug\ArbolDLL.csprojAssemblyReference.cache
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\ArbolDLL\ArbolDLL\obj\Debug\ArbolDLL.csproj.CoreCompileInputs.cache
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\ArbolDLL\ArbolDLL\obj\Debug\ArbolDLL.dll
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\ArbolDLL\ArbolDLL\obj\Debug\ArbolDLL.pdb

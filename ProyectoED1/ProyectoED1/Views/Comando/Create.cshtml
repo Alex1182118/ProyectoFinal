@@ -1,0 +1,33 @@
+﻿@model ProyectoED1.Models.Comando
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h2>Create</h2>
+
+<h4>Comando</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="TextoComando" class="control-label"></label>
+                <textarea asp-for="TextoComando" class="form-control"></textarea>
+                <span asp-validation-for="TextoComando" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="GO" class="btn btn-default" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-controller="Tabla" asp-action="Tablas">Ver tablas</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,37 @@
+﻿@model IEnumerable<ProyectoED1.Models.DefColumna>
+
+@{
+    ViewData["Title"] = "Columnas";
+}
+
+<h2>Columnas de la tabla: </h2>
+<h4>Tabla creada correctamente</h4>
+
+<p>
+    <a asp-controller="Comando" asp-action="Create">Ingresar comandos</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.nombreColumna)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.tipoColumna)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.nombreColumna)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.tipoColumna)
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,32 @@
+@model IEnumerable<ProyectoED1.Models.DefColumna>
+@{
+    ViewData["Title"] = "Columnas";
+}
+<h2>Columnas Seleccionadas: </h2>
+<p>
+    <a asp-controller="Comando" asp-action="Create">Ingresar comandos</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.nombreColumna)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.nombreColumna)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.tipoColumna)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.list_string)
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

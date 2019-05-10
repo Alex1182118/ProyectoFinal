@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{C3AB92EE-AADA-4AE4-B5D1-1B3B23E025AC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/ComandoController.cs">
+    <Files>
+      <File FileName="Repositories/ITablaRepository.cs" Line="1" Column="1" />
+      <File FileName="Controllers/TablaController.cs" Line="1" Column="1" />
+      <File FileName="Controllers/ComandoController.cs" Line="327" Column="1" />
+      <File FileName="Views/Tabla/ColumnasSelect.cshtml" Line="1" Column="1" />
+      <File FileName="Repositories/TablaRepository.cs" Line="198" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ProyectoED1" expanded="True">
+            <Node name="ProyectoED1" expanded="True">
+              <Node name="Dependencies" selected="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Repositories" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Tabla" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ProyectoED1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/lisdiaz/Downloads/prueba-master 2 2 2/ProyectoED1/ProyectoED1/Repositories/TablaRepository.cs" relfile="Repositories/TablaRepository.cs" line="155" column="1" />
+      <Breakpoint file="/Users/lisdiaz/Downloads/prueba-master 2 2 2/ProyectoED1/ProyectoED1/Repositories/TablaRepository.cs" relfile="Repositories/TablaRepository.cs" line="178" column="1" />
+      <Breakpoint file="/Users/lisdiaz/Downloads/prueba-master 2 2 2/ProyectoED1/ProyectoED1/Repositories/TablaRepository.cs" relfile="Repositories/TablaRepository.cs" line="175" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

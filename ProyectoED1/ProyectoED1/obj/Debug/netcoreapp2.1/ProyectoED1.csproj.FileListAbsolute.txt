@@ -1,0 +1,283 @@
+C:/Users/user/source/repos/ProyectoED1/ProyectoED1/bin/Debug/netcoreapp2.1/ProyectoED1.deps.json
+C:/Users/user/source/repos/ProyectoED1/ProyectoED1/bin/Debug/netcoreapp2.1/ProyectoED1.runtimeconfig.json
+C:/Users/user/source/repos/ProyectoED1/ProyectoED1/bin/Debug/netcoreapp2.1/ProyectoED1.runtimeconfig.dev.json
+C:/Users/user/source/repos/ProyectoED1/ProyectoED1/bin/Debug/netcoreapp2.1/ProyectoED1.dll
+C:/Users/user/source/repos/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.csproj.CoreCompileInputs.cache
+C:/Users/user/source/repos/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.RazorAssemblyInfo.cache
+C:/Users/user/source/repos/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.RazorAssemblyInfo.cs
+C:/Users/user/source/repos/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.AssemblyInfoInputs.cache
+C:/Users/user/source/repos/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.AssemblyInfo.cs
+C:/Users/user/source/repos/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.TagHelpers.input.cache
+C:/Users/user/source/repos/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.TagHelpers.output.cache
+C:/Users/user/source/repos/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.RazorCoreGenerate.cache
+C:/Users/user/source/repos/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Home/About.g.cshtml.cs
+C:/Users/user/source/repos/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Home/Contact.g.cshtml.cs
+C:/Users/user/source/repos/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+C:/Users/user/source/repos/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Home/Privacy.g.cshtml.cs
+C:/Users/user/source/repos/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Error.g.cshtml.cs
+C:/Users/user/source/repos/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+C:/Users/user/source/repos/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+C:/Users/user/source/repos/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+C:/Users/user/source/repos/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+C:/Users/user/source/repos/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+C:/Users/user/source/repos/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.RazorTargetAssemblyInfo.cache
+C:/Users/user/source/repos/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.RazorTargetAssemblyInfo.cs
+C:/Users/user/source/repos/ProyectoED1/ProyectoED1/bin/Debug/netcoreapp2.1/ProyectoED1.pdb
+C:/Users/user/source/repos/ProyectoED1/ProyectoED1/bin/Debug/netcoreapp2.1/ProyectoED1.Views.dll
+C:/Users/user/source/repos/ProyectoED1/ProyectoED1/bin/Debug/netcoreapp2.1/ProyectoED1.Views.pdb
+C:/Users/user/source/repos/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.csprojAssemblyReference.cache
+C:/Users/user/source/repos/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.Views.pdb
+C:/Users/user/source/repos/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.dll
+C:/Users/user/source/repos/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.pdb
+C:/Users/user/source/repos/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.csproj.CopyComplete
+C:/Users/user/Documents/ProyectoED1/ProyectoED1/bin/Debug/netcoreapp2.1/ProyectoED1.deps.json
+C:/Users/user/Documents/ProyectoED1/ProyectoED1/bin/Debug/netcoreapp2.1/ProyectoED1.runtimeconfig.json
+C:/Users/user/Documents/ProyectoED1/ProyectoED1/bin/Debug/netcoreapp2.1/ProyectoED1.runtimeconfig.dev.json
+C:/Users/user/Documents/ProyectoED1/ProyectoED1/bin/Debug/netcoreapp2.1/ProyectoED1.dll
+C:/Users/user/Documents/ProyectoED1/ProyectoED1/bin/Debug/netcoreapp2.1/ProyectoED1.pdb
+C:/Users/user/Documents/ProyectoED1/ProyectoED1/bin/Debug/netcoreapp2.1/ProyectoED1.Views.dll
+C:/Users/user/Documents/ProyectoED1/ProyectoED1/bin/Debug/netcoreapp2.1/ProyectoED1.Views.pdb
+C:/Users/user/Documents/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.csprojAssemblyReference.cache
+C:/Users/user/Documents/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.csproj.CoreCompileInputs.cache
+C:/Users/user/Documents/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.RazorAssemblyInfo.cache
+C:/Users/user/Documents/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.RazorAssemblyInfo.cs
+C:/Users/user/Documents/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.AssemblyInfoInputs.cache
+C:/Users/user/Documents/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.AssemblyInfo.cs
+C:/Users/user/Documents/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.TagHelpers.input.cache
+C:/Users/user/Documents/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.TagHelpers.output.cache
+C:/Users/user/Documents/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.RazorCoreGenerate.cache
+C:/Users/user/Documents/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Home/About.g.cshtml.cs
+C:/Users/user/Documents/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Home/Contact.g.cshtml.cs
+C:/Users/user/Documents/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+C:/Users/user/Documents/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Home/Privacy.g.cshtml.cs
+C:/Users/user/Documents/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Error.g.cshtml.cs
+C:/Users/user/Documents/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+C:/Users/user/Documents/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+C:/Users/user/Documents/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+C:/Users/user/Documents/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+C:/Users/user/Documents/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+C:/Users/user/Documents/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.RazorTargetAssemblyInfo.cache
+C:/Users/user/Documents/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.RazorTargetAssemblyInfo.cs
+C:/Users/user/Documents/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.Views.pdb
+C:/Users/user/Documents/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.dll
+C:/Users/user/Documents/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.pdb
+C:/Users/user/Documents/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.csproj.CopyComplete
+C:/Users/user/Documents/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Comando/Create.g.cshtml.cs
+C:/Users/user/Documents/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Tabla/Columnas.g.cshtml.cs
+C:/Users/user/Documents/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Tabla/Tablas.g.cshtml.cs
+C:/Users/alexg/OneDrive/Escritorio/ProyectoED1/ProyectoED1/bin/Debug/netcoreapp2.1/ProyectoED1.deps.json
+C:/Users/alexg/OneDrive/Escritorio/ProyectoED1/ProyectoED1/bin/Debug/netcoreapp2.1/ProyectoED1.runtimeconfig.json
+C:/Users/alexg/OneDrive/Escritorio/ProyectoED1/ProyectoED1/bin/Debug/netcoreapp2.1/ProyectoED1.runtimeconfig.dev.json
+C:/Users/alexg/OneDrive/Escritorio/ProyectoED1/ProyectoED1/bin/Debug/netcoreapp2.1/ProyectoED1.dll
+C:/Users/alexg/OneDrive/Escritorio/ProyectoED1/ProyectoED1/bin/Debug/netcoreapp2.1/ProyectoED1.pdb
+C:/Users/alexg/OneDrive/Escritorio/ProyectoED1/ProyectoED1/bin/Debug/netcoreapp2.1/ProyectoED1.Views.dll
+C:/Users/alexg/OneDrive/Escritorio/ProyectoED1/ProyectoED1/bin/Debug/netcoreapp2.1/ProyectoED1.Views.pdb
+C:/Users/alexg/OneDrive/Escritorio/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.csprojAssemblyReference.cache
+C:/Users/alexg/OneDrive/Escritorio/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.csproj.CoreCompileInputs.cache
+C:/Users/alexg/OneDrive/Escritorio/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.RazorAssemblyInfo.cache
+C:/Users/alexg/OneDrive/Escritorio/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.RazorAssemblyInfo.cs
+C:/Users/alexg/OneDrive/Escritorio/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.AssemblyInfoInputs.cache
+C:/Users/alexg/OneDrive/Escritorio/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.AssemblyInfo.cs
+C:/Users/alexg/OneDrive/Escritorio/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.TagHelpers.input.cache
+C:/Users/alexg/OneDrive/Escritorio/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.TagHelpers.output.cache
+C:/Users/alexg/OneDrive/Escritorio/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.RazorCoreGenerate.cache
+C:/Users/alexg/OneDrive/Escritorio/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Comando/Create.g.cshtml.cs
+C:/Users/alexg/OneDrive/Escritorio/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Home/About.g.cshtml.cs
+C:/Users/alexg/OneDrive/Escritorio/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Home/Contact.g.cshtml.cs
+C:/Users/alexg/OneDrive/Escritorio/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+C:/Users/alexg/OneDrive/Escritorio/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Home/Privacy.g.cshtml.cs
+C:/Users/alexg/OneDrive/Escritorio/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Error.g.cshtml.cs
+C:/Users/alexg/OneDrive/Escritorio/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+C:/Users/alexg/OneDrive/Escritorio/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+C:/Users/alexg/OneDrive/Escritorio/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+C:/Users/alexg/OneDrive/Escritorio/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Tabla/Columnas.g.cshtml.cs
+C:/Users/alexg/OneDrive/Escritorio/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Tabla/Tablas.g.cshtml.cs
+C:/Users/alexg/OneDrive/Escritorio/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+C:/Users/alexg/OneDrive/Escritorio/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+C:/Users/alexg/OneDrive/Escritorio/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.RazorTargetAssemblyInfo.cache
+C:/Users/alexg/OneDrive/Escritorio/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.RazorTargetAssemblyInfo.cs
+C:/Users/alexg/OneDrive/Escritorio/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.Views.pdb
+C:/Users/alexg/OneDrive/Escritorio/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.dll
+C:/Users/alexg/OneDrive/Escritorio/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.pdb
+C:/Users/alexg/OneDrive/Escritorio/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.csproj.CopyComplete
+/Users/lisdiaz/Downloads/prueba-master/ProyectoED1/ProyectoED1/bin/Debug/netcoreapp2.1/ProyectoED1.deps.json
+/Users/lisdiaz/Downloads/prueba-master/ProyectoED1/ProyectoED1/bin/Debug/netcoreapp2.1/ProyectoED1.runtimeconfig.json
+/Users/lisdiaz/Downloads/prueba-master/ProyectoED1/ProyectoED1/bin/Debug/netcoreapp2.1/ProyectoED1.runtimeconfig.dev.json
+/Users/lisdiaz/Downloads/prueba-master/ProyectoED1/ProyectoED1/bin/Debug/netcoreapp2.1/ProyectoED1.dll
+/Users/lisdiaz/Downloads/prueba-master/ProyectoED1/ProyectoED1/bin/Debug/netcoreapp2.1/ProyectoED1.pdb
+/Users/lisdiaz/Downloads/prueba-master/ProyectoED1/ProyectoED1/bin/Debug/netcoreapp2.1/ProyectoED1.Views.dll
+/Users/lisdiaz/Downloads/prueba-master/ProyectoED1/ProyectoED1/bin/Debug/netcoreapp2.1/ProyectoED1.Views.pdb
+/Users/lisdiaz/Downloads/prueba-master/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.csprojAssemblyReference.cache
+/Users/lisdiaz/Downloads/prueba-master/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.csproj.CoreCompileInputs.cache
+/Users/lisdiaz/Downloads/prueba-master/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.RazorAssemblyInfo.cache
+/Users/lisdiaz/Downloads/prueba-master/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.RazorAssemblyInfo.cs
+/Users/lisdiaz/Downloads/prueba-master/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.AssemblyInfoInputs.cache
+/Users/lisdiaz/Downloads/prueba-master/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.AssemblyInfo.cs
+/Users/lisdiaz/Downloads/prueba-master/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.TagHelpers.input.cache
+/Users/lisdiaz/Downloads/prueba-master/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.TagHelpers.output.cache
+/Users/lisdiaz/Downloads/prueba-master/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.RazorCoreGenerate.cache
+/Users/lisdiaz/Downloads/prueba-master/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Comando/Create.g.cshtml.cs
+/Users/lisdiaz/Downloads/prueba-master/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Home/About.g.cshtml.cs
+/Users/lisdiaz/Downloads/prueba-master/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Home/Contact.g.cshtml.cs
+/Users/lisdiaz/Downloads/prueba-master/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+/Users/lisdiaz/Downloads/prueba-master/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Home/Privacy.g.cshtml.cs
+/Users/lisdiaz/Downloads/prueba-master/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Error.g.cshtml.cs
+/Users/lisdiaz/Downloads/prueba-master/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+/Users/lisdiaz/Downloads/prueba-master/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/lisdiaz/Downloads/prueba-master/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/Users/lisdiaz/Downloads/prueba-master/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Tabla/Columnas.g.cshtml.cs
+/Users/lisdiaz/Downloads/prueba-master/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Tabla/Tablas.g.cshtml.cs
+/Users/lisdiaz/Downloads/prueba-master/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/lisdiaz/Downloads/prueba-master/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/lisdiaz/Downloads/prueba-master/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.RazorTargetAssemblyInfo.cache
+/Users/lisdiaz/Downloads/prueba-master/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.RazorTargetAssemblyInfo.cs
+/Users/lisdiaz/Downloads/prueba-master/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.Views.pdb
+/Users/lisdiaz/Downloads/prueba-master/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.dll
+/Users/lisdiaz/Downloads/prueba-master/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.pdb
+/Users/lisdiaz/Downloads/prueba-master/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.csproj.CopyComplete
+C:/Users/alexg/OneDrive/Escritorio/prueba-master/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.csprojAssemblyReference.cache
+C:/Users/alexg/OneDrive/Escritorio/prueba-master/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.csproj.CoreCompileInputs.cache
+C:/Users/alexg/OneDrive/Escritorio/prueba-master/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.RazorAssemblyInfo.cache
+C:/Users/alexg/OneDrive/Escritorio/prueba-master/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.RazorAssemblyInfo.cs
+C:/Users/alexg/OneDrive/Escritorio/prueba-master/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.AssemblyInfoInputs.cache
+C:/Users/alexg/OneDrive/Escritorio/prueba-master/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.AssemblyInfo.cs
+C:/Users/alexg/OneDrive/Escritorio/prueba-master/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.dll
+C:/Users/alexg/OneDrive/Escritorio/prueba-master/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.pdb
+C:/Users/alexg/OneDrive/Escritorio/prueba-master/ProyectoED1/ProyectoED1/bin/Debug/netcoreapp2.1/ProyectoED1.deps.json
+C:/Users/alexg/OneDrive/Escritorio/prueba-master/ProyectoED1/ProyectoED1/bin/Debug/netcoreapp2.1/ProyectoED1.runtimeconfig.json
+C:/Users/alexg/OneDrive/Escritorio/prueba-master/ProyectoED1/ProyectoED1/bin/Debug/netcoreapp2.1/ProyectoED1.runtimeconfig.dev.json
+C:/Users/alexg/OneDrive/Escritorio/prueba-master/ProyectoED1/ProyectoED1/bin/Debug/netcoreapp2.1/ProyectoED1.dll
+C:/Users/alexg/OneDrive/Escritorio/prueba-master/ProyectoED1/ProyectoED1/bin/Debug/netcoreapp2.1/ProyectoED1.pdb
+C:/Users/alexg/OneDrive/Escritorio/prueba-master/ProyectoED1/ProyectoED1/bin/Debug/netcoreapp2.1/ProyectoED1.Views.dll
+C:/Users/alexg/OneDrive/Escritorio/prueba-master/ProyectoED1/ProyectoED1/bin/Debug/netcoreapp2.1/ProyectoED1.Views.pdb
+C:/Users/alexg/OneDrive/Escritorio/prueba-master/ProyectoED1/ProyectoED1/bin/Debug/netcoreapp2.1/ArbolDLL.dll
+C:/Users/alexg/OneDrive/Escritorio/prueba-master/ProyectoED1/ProyectoED1/bin/Debug/netcoreapp2.1/ArbolDLL.pdb
+C:/Users/alexg/OneDrive/Escritorio/prueba-master/ProyectoED1/ProyectoED1/bin/Debug/netcoreapp2.1/ArbolDLL.dll.config
+C:/Users/alexg/OneDrive/Escritorio/prueba-master/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.TagHelpers.input.cache
+C:/Users/alexg/OneDrive/Escritorio/prueba-master/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.TagHelpers.output.cache
+C:/Users/alexg/OneDrive/Escritorio/prueba-master/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.RazorCoreGenerate.cache
+C:/Users/alexg/OneDrive/Escritorio/prueba-master/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Comando/Create.g.cshtml.cs
+C:/Users/alexg/OneDrive/Escritorio/prueba-master/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Home/About.g.cshtml.cs
+C:/Users/alexg/OneDrive/Escritorio/prueba-master/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Home/Contact.g.cshtml.cs
+C:/Users/alexg/OneDrive/Escritorio/prueba-master/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+C:/Users/alexg/OneDrive/Escritorio/prueba-master/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Home/Privacy.g.cshtml.cs
+C:/Users/alexg/OneDrive/Escritorio/prueba-master/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Error.g.cshtml.cs
+C:/Users/alexg/OneDrive/Escritorio/prueba-master/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+C:/Users/alexg/OneDrive/Escritorio/prueba-master/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+C:/Users/alexg/OneDrive/Escritorio/prueba-master/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+C:/Users/alexg/OneDrive/Escritorio/prueba-master/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Tabla/Columnas.g.cshtml.cs
+C:/Users/alexg/OneDrive/Escritorio/prueba-master/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Tabla/Tablas.g.cshtml.cs
+C:/Users/alexg/OneDrive/Escritorio/prueba-master/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+C:/Users/alexg/OneDrive/Escritorio/prueba-master/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+C:/Users/alexg/OneDrive/Escritorio/prueba-master/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.RazorTargetAssemblyInfo.cache
+C:/Users/alexg/OneDrive/Escritorio/prueba-master/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.RazorTargetAssemblyInfo.cs
+C:/Users/alexg/OneDrive/Escritorio/prueba-master/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.Views.pdb
+C:/Users/alexg/OneDrive/Escritorio/prueba-master/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.csproj.CopyComplete
+/Users/lisdiaz/Downloads/prueba-master 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.csprojAssemblyReference.cache
+/Users/lisdiaz/Downloads/prueba-master 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.csproj.CoreCompileInputs.cache
+/Users/lisdiaz/Downloads/prueba-master 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.RazorAssemblyInfo.cache
+/Users/lisdiaz/Downloads/prueba-master 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.RazorAssemblyInfo.cs
+/Users/lisdiaz/Downloads/prueba-master 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.AssemblyInfoInputs.cache
+/Users/lisdiaz/Downloads/prueba-master 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.AssemblyInfo.cs
+/Users/lisdiaz/Downloads/prueba-master 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.dll
+/Users/lisdiaz/Downloads/prueba-master 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.pdb
+/Users/lisdiaz/Downloads/prueba-master 2/ProyectoED1/ProyectoED1/bin/Debug/netcoreapp2.1/ProyectoED1.deps.json
+/Users/lisdiaz/Downloads/prueba-master 2/ProyectoED1/ProyectoED1/bin/Debug/netcoreapp2.1/ProyectoED1.runtimeconfig.json
+/Users/lisdiaz/Downloads/prueba-master 2/ProyectoED1/ProyectoED1/bin/Debug/netcoreapp2.1/ProyectoED1.runtimeconfig.dev.json
+/Users/lisdiaz/Downloads/prueba-master 2/ProyectoED1/ProyectoED1/bin/Debug/netcoreapp2.1/ProyectoED1.dll
+/Users/lisdiaz/Downloads/prueba-master 2/ProyectoED1/ProyectoED1/bin/Debug/netcoreapp2.1/ProyectoED1.pdb
+/Users/lisdiaz/Downloads/prueba-master 2/ProyectoED1/ProyectoED1/bin/Debug/netcoreapp2.1/ProyectoED1.Views.dll
+/Users/lisdiaz/Downloads/prueba-master 2/ProyectoED1/ProyectoED1/bin/Debug/netcoreapp2.1/ProyectoED1.Views.pdb
+/Users/lisdiaz/Downloads/prueba-master 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.TagHelpers.input.cache
+/Users/lisdiaz/Downloads/prueba-master 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.TagHelpers.output.cache
+/Users/lisdiaz/Downloads/prueba-master 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.RazorCoreGenerate.cache
+/Users/lisdiaz/Downloads/prueba-master 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Comando/Create.g.cshtml.cs
+/Users/lisdiaz/Downloads/prueba-master 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Home/About.g.cshtml.cs
+/Users/lisdiaz/Downloads/prueba-master 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Home/Contact.g.cshtml.cs
+/Users/lisdiaz/Downloads/prueba-master 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+/Users/lisdiaz/Downloads/prueba-master 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Home/Privacy.g.cshtml.cs
+/Users/lisdiaz/Downloads/prueba-master 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Error.g.cshtml.cs
+/Users/lisdiaz/Downloads/prueba-master 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+/Users/lisdiaz/Downloads/prueba-master 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/lisdiaz/Downloads/prueba-master 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/Users/lisdiaz/Downloads/prueba-master 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Tabla/Columnas.g.cshtml.cs
+/Users/lisdiaz/Downloads/prueba-master 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Tabla/Tablas.g.cshtml.cs
+/Users/lisdiaz/Downloads/prueba-master 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/lisdiaz/Downloads/prueba-master 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/lisdiaz/Downloads/prueba-master 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.RazorTargetAssemblyInfo.cache
+/Users/lisdiaz/Downloads/prueba-master 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.RazorTargetAssemblyInfo.cs
+/Users/lisdiaz/Downloads/prueba-master 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.Views.pdb
+/Users/lisdiaz/Downloads/prueba-master 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.csproj.CopyComplete
+/Users/lisdiaz/Downloads/prueba-master 2 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.csprojAssemblyReference.cache
+/Users/lisdiaz/Downloads/prueba-master 2 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.csproj.CoreCompileInputs.cache
+/Users/lisdiaz/Downloads/prueba-master 2 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.RazorAssemblyInfo.cache
+/Users/lisdiaz/Downloads/prueba-master 2 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.RazorAssemblyInfo.cs
+/Users/lisdiaz/Downloads/prueba-master 2 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.AssemblyInfoInputs.cache
+/Users/lisdiaz/Downloads/prueba-master 2 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.AssemblyInfo.cs
+/Users/lisdiaz/Downloads/prueba-master 2 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.dll
+/Users/lisdiaz/Downloads/prueba-master 2 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.pdb
+/Users/lisdiaz/Downloads/prueba-master 2 2/ProyectoED1/ProyectoED1/bin/Debug/netcoreapp2.1/ProyectoED1.deps.json
+/Users/lisdiaz/Downloads/prueba-master 2 2/ProyectoED1/ProyectoED1/bin/Debug/netcoreapp2.1/ProyectoED1.runtimeconfig.json
+/Users/lisdiaz/Downloads/prueba-master 2 2/ProyectoED1/ProyectoED1/bin/Debug/netcoreapp2.1/ProyectoED1.runtimeconfig.dev.json
+/Users/lisdiaz/Downloads/prueba-master 2 2/ProyectoED1/ProyectoED1/bin/Debug/netcoreapp2.1/ProyectoED1.dll
+/Users/lisdiaz/Downloads/prueba-master 2 2/ProyectoED1/ProyectoED1/bin/Debug/netcoreapp2.1/ProyectoED1.pdb
+/Users/lisdiaz/Downloads/prueba-master 2 2/ProyectoED1/ProyectoED1/bin/Debug/netcoreapp2.1/ProyectoED1.Views.dll
+/Users/lisdiaz/Downloads/prueba-master 2 2/ProyectoED1/ProyectoED1/bin/Debug/netcoreapp2.1/ProyectoED1.Views.pdb
+/Users/lisdiaz/Downloads/prueba-master 2 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.TagHelpers.input.cache
+/Users/lisdiaz/Downloads/prueba-master 2 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.TagHelpers.output.cache
+/Users/lisdiaz/Downloads/prueba-master 2 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.RazorCoreGenerate.cache
+/Users/lisdiaz/Downloads/prueba-master 2 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Comando/Create.g.cshtml.cs
+/Users/lisdiaz/Downloads/prueba-master 2 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Home/About.g.cshtml.cs
+/Users/lisdiaz/Downloads/prueba-master 2 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Home/Contact.g.cshtml.cs
+/Users/lisdiaz/Downloads/prueba-master 2 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+/Users/lisdiaz/Downloads/prueba-master 2 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Home/Privacy.g.cshtml.cs
+/Users/lisdiaz/Downloads/prueba-master 2 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Error.g.cshtml.cs
+/Users/lisdiaz/Downloads/prueba-master 2 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+/Users/lisdiaz/Downloads/prueba-master 2 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/lisdiaz/Downloads/prueba-master 2 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/Users/lisdiaz/Downloads/prueba-master 2 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Tabla/Columnas.g.cshtml.cs
+/Users/lisdiaz/Downloads/prueba-master 2 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Tabla/ColumnasSelect.g.cshtml.cs
+/Users/lisdiaz/Downloads/prueba-master 2 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Tabla/Tablas.g.cshtml.cs
+/Users/lisdiaz/Downloads/prueba-master 2 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/lisdiaz/Downloads/prueba-master 2 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/lisdiaz/Downloads/prueba-master 2 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.RazorTargetAssemblyInfo.cache
+/Users/lisdiaz/Downloads/prueba-master 2 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.RazorTargetAssemblyInfo.cs
+/Users/lisdiaz/Downloads/prueba-master 2 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.Views.pdb
+/Users/lisdiaz/Downloads/prueba-master 2 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.csproj.CopyComplete
+/Users/lisdiaz/Downloads/prueba-master 2 2 2/ProyectoED1/ProyectoED1/bin/Debug/netcoreapp2.1/ProyectoED1.deps.json
+/Users/lisdiaz/Downloads/prueba-master 2 2 2/ProyectoED1/ProyectoED1/bin/Debug/netcoreapp2.1/ProyectoED1.runtimeconfig.json
+/Users/lisdiaz/Downloads/prueba-master 2 2 2/ProyectoED1/ProyectoED1/bin/Debug/netcoreapp2.1/ProyectoED1.runtimeconfig.dev.json
+/Users/lisdiaz/Downloads/prueba-master 2 2 2/ProyectoED1/ProyectoED1/bin/Debug/netcoreapp2.1/ProyectoED1.dll
+/Users/lisdiaz/Downloads/prueba-master 2 2 2/ProyectoED1/ProyectoED1/bin/Debug/netcoreapp2.1/ProyectoED1.pdb
+/Users/lisdiaz/Downloads/prueba-master 2 2 2/ProyectoED1/ProyectoED1/bin/Debug/netcoreapp2.1/ProyectoED1.Views.dll
+/Users/lisdiaz/Downloads/prueba-master 2 2 2/ProyectoED1/ProyectoED1/bin/Debug/netcoreapp2.1/ProyectoED1.Views.pdb
+/Users/lisdiaz/Downloads/prueba-master 2 2 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.csprojAssemblyReference.cache
+/Users/lisdiaz/Downloads/prueba-master 2 2 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.csproj.CoreCompileInputs.cache
+/Users/lisdiaz/Downloads/prueba-master 2 2 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.RazorAssemblyInfo.cache
+/Users/lisdiaz/Downloads/prueba-master 2 2 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.RazorAssemblyInfo.cs
+/Users/lisdiaz/Downloads/prueba-master 2 2 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.AssemblyInfoInputs.cache
+/Users/lisdiaz/Downloads/prueba-master 2 2 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.AssemblyInfo.cs
+/Users/lisdiaz/Downloads/prueba-master 2 2 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.TagHelpers.input.cache
+/Users/lisdiaz/Downloads/prueba-master 2 2 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.TagHelpers.output.cache
+/Users/lisdiaz/Downloads/prueba-master 2 2 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.RazorCoreGenerate.cache
+/Users/lisdiaz/Downloads/prueba-master 2 2 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Comando/Create.g.cshtml.cs
+/Users/lisdiaz/Downloads/prueba-master 2 2 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Home/About.g.cshtml.cs
+/Users/lisdiaz/Downloads/prueba-master 2 2 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Home/Contact.g.cshtml.cs
+/Users/lisdiaz/Downloads/prueba-master 2 2 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+/Users/lisdiaz/Downloads/prueba-master 2 2 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Home/Privacy.g.cshtml.cs
+/Users/lisdiaz/Downloads/prueba-master 2 2 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Error.g.cshtml.cs
+/Users/lisdiaz/Downloads/prueba-master 2 2 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+/Users/lisdiaz/Downloads/prueba-master 2 2 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/lisdiaz/Downloads/prueba-master 2 2 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/Users/lisdiaz/Downloads/prueba-master 2 2 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Tabla/Columnas.g.cshtml.cs
+/Users/lisdiaz/Downloads/prueba-master 2 2 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Tabla/ColumnasSelect.g.cshtml.cs
+/Users/lisdiaz/Downloads/prueba-master 2 2 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Tabla/Insert.g.cshtml.cs
+/Users/lisdiaz/Downloads/prueba-master 2 2 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/Tabla/Tablas.g.cshtml.cs
+/Users/lisdiaz/Downloads/prueba-master 2 2 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/lisdiaz/Downloads/prueba-master 2 2 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/lisdiaz/Downloads/prueba-master 2 2 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.RazorTargetAssemblyInfo.cache
+/Users/lisdiaz/Downloads/prueba-master 2 2 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.RazorTargetAssemblyInfo.cs
+/Users/lisdiaz/Downloads/prueba-master 2 2 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.Views.pdb
+/Users/lisdiaz/Downloads/prueba-master 2 2 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.dll
+/Users/lisdiaz/Downloads/prueba-master 2 2 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.pdb
+/Users/lisdiaz/Downloads/prueba-master 2 2 2/ProyectoED1/ProyectoED1/obj/Debug/netcoreapp2.1/ProyectoED1.csproj.CopyComplete
